@@ -37,8 +37,6 @@
 
 - 💻 I also build fullstack apps with **React, Node.js, Laravel, Python**
 
-- 👨‍🎓 I'm an Undergraduate at **LNBTI**
-
 - 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD**
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/malitha-rathnathilaka-06221b302/)**
