@@ -1,101 +1,110 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020408,25:0a1628,50:00f5ff,75:ff00aa,100:020408&height=220&section=header&text=MALITHA%20RATHNATHILAKA&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=%E2%9A%A1%20Fullstack%20Engineer%20%7C%20DevOps%20Architect%20%E2%9A%A1&descSize=18&descColor=00f5ff&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020408,25:0a1628,50:00f5ff,75:ff00aa,100:020408&height=200&section=header" width="100%"/>
+
+<!-- GREETING -->
+<h1>Hi 👋, I'm Malitha Rathnathilaka</h1>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Building+scalable+systems+from+pixel+to+pipeline;%3E+Architecting+resilient+DevOps+infrastructures;%3E+Engineering+the+future%2C+one+commit+at+a+time" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Fullstack+Engineer+%F0%9F%92%BB;DevOps+Architect+%E2%98%81%EF%B8%8F;Cloud+Infrastructure+Builder+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=malitha04&label=Profile%20views&color=00f5ff&style=flat" alt="malitha04" />
+
+<br/><br/>
+
+<!-- INFO BADGES -->
+![Focus](https://img.shields.io/badge/Focus-Fullstack%20Development%20%26%20DevOps-00f5ff?style=flat&labelColor=0a1628)
+![Lives](https://img.shields.io/badge/Lives-Sri%20Lanka%20🇱🇰-ff00aa?style=flat&labelColor=0a1628)
+![Languages](https://img.shields.io/badge/Languages-English%20%26%20Sinhala-ffee00?style=flat&labelColor=0a1628)
+
+</div>
+
+---
+
+<!-- ABOUT ME -->
+<table>
+<tr>
+<td valign="top" width="60%">
+
+- 🚀 I'm currently learning **Cloud Architecture & Kubernetes**
+
+- 👨‍🎓 I'm an Undergraduate at **LNBTI**
+
+- 💬 Ask me about **React, Node.js, AWS, Docker, Laravel, Python**
+
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/malitha-rathnathilaka-06221b302/)**
+
+- 🌐 Check out my portfolio: **[malitha04.github.io](https://malitha04.github.io/portfolio-website/)**
+
+- ⚡ Fun fact: **I automate everything, including my morning coffee ☕**
+
+</td>
+<td valign="top" width="40%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- SOCIAL LINKS -->
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/⚡_Portfolio-020408?style=for-the-badge&logo=firefox&logoColor=00f5ff&labelColor=0a1628)](https://malitha04.github.io/portfolio-website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-020408?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0a1628)](https://www.linkedin.com/in/malitha-rathnathilaka-06221b302/)
 [![GitHub](https://img.shields.io/badge/GitHub-020408?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0a1628)](https://github.com/malitha04)
 
 </div>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
-## `> whoami`
-
-```js
-const malitha = {
-    pronouns: "he" | "him",
-    title: "Fullstack Engineer & DevOps Architect",
-    location: "Sri Lanka 🇱🇰",
-    currentFocus: "Cloud Architecture & Container Orchestration",
-    funFact: "I automate everything, including my morning coffee ☕",
-    
-    code: ["JavaScript", "TypeScript", "PHP", "Python", "Java", "Go", "C#"],
-    
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue.js", "Angular"],
-            css: ["Tailwind CSS", "Bootstrap", "Sass"],
-            tools: ["Vite", "Redux"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            php: ["Laravel"],
-            python: ["Django"],
-            java: ["Spring Boot"],
-            csharp: [".NET"]
-        },
-        databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Firebase", "SQLite"],
-        devOps: ["AWS", "Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins"],
-        cloud: ["EC2", "S3", "RDS", "Lambda", "CloudFront"],
-        tools: ["Git", "GitHub Actions", "Nginx", "Prometheus", "Grafana"]
-    },
-    
-    architecture: ["Microservices", "MVC", "REST APIs", "GraphQL", "CI/CD Pipelines"],
-    
-    currentlyLearning: "Always exploring new tech frontiers 🚀"
-};
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-## `> tech_arsenal --list`
+## 🛠️ Tech Stack:
 
 <div align="center">
 
-### ⚡ Languages
+#### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,go,cs,html,css&theme=dark" />
 </p>
 
-### 🔧 Frontend
+#### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,redux,vite&theme=dark" />
 </p>
 
-### ⚙️ Backend & Frameworks
+#### Backend & Frameworks
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,spring,dotnet&theme=dark" />
 </p>
 
-### 🗄️ Databases
+#### Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite&theme=dark" />
 </p>
 
-### 🐳 DevOps & Cloud
+#### DevOps & Cloud
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,linux,nginx,githubactions,prometheus,grafana&theme=dark" />
 </p>
 
-### 🛠️ Tools
+#### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark" />
 </p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
-## `> stats --verbose`
+## 📊 My Statistics:
 
 <div align="center">
 
@@ -114,9 +123,19 @@ const malitha = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
-## `> projects --featured`
+## 🏆 Trophies:
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=malitha04&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+## 📌 Featured Projects:
 
 <div align="center">
 
@@ -127,21 +146,9 @@ const malitha = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
-## `> trophies --showcase`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=malitha04&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-<!-- 3D CONTRIBUTION -->
-## `> contributions --3d`
-
+<!-- SNAKE ANIMATION -->
 <div align="center">
 
 <picture>
@@ -152,27 +159,19 @@ const malitha = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
 <div align="center">
 
-### `> connect_with_me`
+### 💬 Let's Connect!
 
-<br>
+**"Building the future, one commit at a time."**
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   💬  "Building the future, one commit at a time."       ║
-║                                                          ║
-║   📫  Let's collaborate on something amazing!            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+If you like my work, consider giving a ⭐ to my repos!
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=malitha04&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-00f5ff?style=for-the-badge&labelColor=020408)](https://malitha04.github.io/portfolio-website/)
 
 </div>
 
