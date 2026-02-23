@@ -7,7 +7,7 @@
 <h1>Hi 👋, I'm Malitha Rathnathilaka</h1>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Fullstack+Engineer+%F0%9F%92%BB;DevOps+Architect+%E2%98%81%EF%B8%8F;Cloud+Infrastructure+Builder+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=550&height=45&lines=DevOps+%26+Cloud+Engineer+%E2%98%81%EF%B8%8F;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform+%F0%9F%9A%80;CI%2FCD+Pipeline+Architect+%E2%9A%99%EF%B8%8F;Infrastructure+as+Code+Specialist+%F0%9F%94%A7;Also+a+Fullstack+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -17,9 +17,10 @@
 <br/><br/>
 
 <!-- INFO BADGES -->
-![Focus](https://img.shields.io/badge/Focus-Fullstack%20Development%20%26%20DevOps-00f5ff?style=flat&labelColor=0a1628)
-![Lives](https://img.shields.io/badge/Lives-Sri%20Lanka%20🇱🇰-ff00aa?style=flat&labelColor=0a1628)
-![Languages](https://img.shields.io/badge/Languages-English%20%26%20Sinhala-ffee00?style=flat&labelColor=0a1628)
+![Focus](https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud%20Engineering-00f5ff?style=flat&labelColor=0a1628)
+![Also](https://img.shields.io/badge/Also-Fullstack%20Development-ff00aa?style=flat&labelColor=0a1628)
+![Lives](https://img.shields.io/badge/Lives-Sri%20Lanka%20🇱🇰-ffee00?style=flat&labelColor=0a1628)
+![Languages](https://img.shields.io/badge/Languages-English%20%26%20Sinhala-c0d8e8?style=flat&labelColor=0a1628)
 
 </div>
 
@@ -30,11 +31,15 @@
 <tr>
 <td valign="top" width="60%">
 
-- 🚀 I'm currently learning **Cloud Architecture & Kubernetes**
+- ☁️ I'm a **DevOps & Cloud Engineer** passionate about infrastructure automation
+
+- 🚀 Currently working with **AWS, Docker, Kubernetes, Terraform & CI/CD Pipelines**
+
+- 💻 I also build fullstack apps with **React, Node.js, Laravel, Python**
 
 - 👨‍🎓 I'm an Undergraduate at **LNBTI**
 
-- 💬 Ask me about **React, Node.js, AWS, Docker, Laravel, Python**
+- 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD**
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/malitha-rathnathilaka-06221b302/)**
 
@@ -70,34 +75,34 @@
 
 <div align="center">
 
-#### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,java,go,cs,html,css&theme=dark" />
-</p>
-
-#### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,redux,vite&theme=dark" />
-</p>
-
-#### Backend & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,spring,dotnet&theme=dark" />
-</p>
-
-#### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite&theme=dark" />
-</p>
-
-#### DevOps & Cloud
+#### ☁️ DevOps, Cloud & Infrastructure (Primary)
 <p>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,linux,nginx,githubactions,prometheus,grafana&theme=dark" />
 </p>
 
-#### Tools
+#### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite&theme=dark" />
+</p>
+
+#### ⚡ Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,php,java,cs,html,css,bash&theme=dark" />
+</p>
+
+#### 🔧 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,redux,vite&theme=dark" />
+</p>
+
+#### ⚙️ Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,spring,dotnet&theme=dark" />
+</p>
+
+#### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </p>
 
 </div>
@@ -165,7 +170,7 @@
 
 ### 💬 Let's Connect!
 
-**"Building the future, one commit at a time."**
+**"Automating infrastructure, deploying at scale, building the future."**
 
 If you like my work, consider giving a ⭐ to my repos!
 
